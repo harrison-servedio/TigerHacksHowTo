@@ -1,0 +1,3 @@
+Strategy:
+To recruit the most team to the competition, constant outreach is neccessary.
+This directory has a CSV files containing schools and contact information. 
