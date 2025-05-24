@@ -1,2 +1,52 @@
 
-1) MOST IMPORTANT: Secure date 
+1. MOST IMPORTANT: Secure date and usage of school facilities. 
+    Look towards a date in early Nov, around veterans day weekend. 
+    Make sure to submit a facilities use form and get on the calendar
+    (via Ms. Minchin or the secretary at the time) ASAP. 
+    For 2025, best date is most likely Saturday, Nov 8, 2025
+
+2. Outreach. This is arguably the most crucial once event date and space
+    has been secured. You can't have an event without people!
+    Reach out via email to all schools who have previously attened. 
+    And shotgun all other schools to see what sticks. 
+    Also - DON'T BE AFRAID TO COLD CALL! This is what built the list initially
+
+    Recommend sending a reminder email at end of school year (beginning of June ish)
+    to keep the contest on peoples mind. And then late aug/early sept, 
+    begin more concrete outreach. 
+
+3. Question development
+    Begin writing questions. Refer to prior specs for examples. 
+    We want around 7-10 questions of varying difficulty. 
+    A good template is 9: 3 easy, 3 medium, 2 hard, and 1 killer. 
+    The goal of having a killer is that nobody is bored and finishes earlier
+    and can also be used as a tiebreaker. 
+    But we also want easy ones so that everyone can feel included - we want
+    everyone to get at least two questions during the contest. 
+    For each question, generate test cases and build a solution. You can create
+    the solution first and then built out the question after. 
+
+4. Tiger Guest Network - talk to tech about setting up.
+
+5. Photo release - a REQUIRED checkbox in the registration form 
+    which says, "I consent to have my photograph taken and used in GCDS Media"
+
+5. Other Miscellanious fine details:
+    - Make sure there are rules made. 
+    - Make sure that packets are printed.
+    - Figure out question hosting/scoring - we have historically used hackerrank.
+    - Every year, there has been a theme - figure out a theme and write the questions 
+    to fit the theme. Some ideas: Murder Mystery, Vineyard Vines theme, Army theme, 
+    God Save the Queen theme, etc. 
+    - Figure out food and water situation - ordering in pizza vs GCDS pizza, etc
+    - Registration stuff the day of
+    - Merchandise. We've done t shirts every year, which the school pays for. So 
+    come up with a design in theme. It's free stuff, everyone loves it and its a signature of the 
+    event. 
+    - Prizes and awards. We've done 1st, 2nd, 3rd, and the George Kapp Friendship Award. 
+    The friendship award is an award we created after witnessing great friendship in an
+    inexperienced team. But it should be given out to the team with the most "Tiger Pride," which
+    is up to your discretion. Also, we've deisgned the awards historically, so please continue to do so. 
+    Examples of old awards can be seen in the drive in the photos section. The George Kapp Friendship Award
+    should come in the form of an item related to the them, but that is customized for GCDS.
+
