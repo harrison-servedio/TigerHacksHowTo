@@ -1,0 +1,15 @@
+The website is currently at tigerhacks.net, a domain owned and operated
+by accounts belonging to Abraham Milgram GCDS '25, who co-founded the competition. 
+
+It is possible that he lapses payment for the domain name - in this case,
+attempt to obtain an adjacent domain or buy it back. 
+
+Presently, the site is hosted by his cloudflare account, which accesses
+the following github repo:
+
+    https://github.com/abraham-milgram/tigerhacks.net
+
+The tigerhacks github account is a contributor to this repo. 
+
+There is also a private copy of the source code of the website as of 
+May 24, 2025 in a github repo owned by the tigerhacks github account.
