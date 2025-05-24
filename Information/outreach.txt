@@ -1,0 +1,11 @@
+Strategy:
+To recruit the most team to the competition, constant outreach is neccessary.
+
+Outreach Methods:
+    1. Emails. Constant emails are important to recruiting students. Drafts of emails from the past year are included in Outreach/emails
+    2. Calls. Phone calls are important and a personal part of outreach. Phone calls we used in years past exist in the CSV file.
+    3. Letters. In years past we have hand-addressed letters to schools. While very personal, this method may have be ineffective. 
+
+Very important! Please continue to build out the email list we have started and do not settle for the contacts we already have. Building out the outreach of Tiger Hacks is very important to its future success. 
+
+All of our outreach information is stored in Google Drive in the 2024 folder in a sheet named "2024 -Tiger Hacks Outreach." Additionally, there is an "Emails" directory in 2024/Emails. This directory holds our four template outreach emails that we sent out to the email list we built out. 
