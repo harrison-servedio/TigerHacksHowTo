@@ -1,0 +1,13 @@
+All of our files are generally stored in the google drive on the 
+official tigerhacks account, gcdscs.tigerhacks@gmail.com
+
+The questions for previous years are in the drive, but coded slns
+for those years are in the following github repos:
+
+https://github.com/harrison-servedio/tigerHacks-2023
+
+https://github.com/harrison-servedio/tigerhacks-2024
+
+We'd recommend hosting this repos in the github account associated with
+gcdscs.tigerhacks@gmail.com (the credentials for this are in the drive, as well)
+for future competitions. 
