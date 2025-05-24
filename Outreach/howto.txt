@@ -1,6 +1,5 @@
 Strategy:
 To recruit the most team to the competition, constant outreach is neccessary.
-This directory has a CSV files containing schools and contact information. 
 
 Outreach Methods:
     1. Emails. Constant emails are important to recruiting students. Drafts of emails from the past year are included in Outreach/emails
