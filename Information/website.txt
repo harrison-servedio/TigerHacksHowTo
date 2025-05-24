@@ -13,3 +13,5 @@ The tigerhacks github account is a contributor to this repo.
 
 There is also a private copy of the source code of the website as of 
 May 24, 2025 in a github repo owned by the tigerhacks github account.
+
+Make sure that the website is updated as needed
